@@ -1,0 +1,28 @@
+Simpack
+
+[Sim]ple [Pack]age é um programa simples para ensido de compilação e instalação
+de pacotes em sistemas operacionais Unix-like com compilador gcc.
+
+Para compilar, dentro do diretório raiz do programa execute:
+
+make
+
+Para instalação de binários e arquivos de configuração, execute:
+
+make install
+
+Para configurar o programa, edite o os arquivos do diretório:
+
+/etc/simplepack
+
+Para desistalar o programa:
+
+make uninstall
+
+Para limpar os binários:
+
+make clean
+
+
+Divirta-se :D
+Att: Rúbens Antônio Rodrigues
